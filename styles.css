@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  background-color: #ffe8df;
+}
+
+/* Navigation Bar */
+.navigation-bar {
+  padding: 2% 1.5%;
+}
+
+.nav-item {
+  font-size: 18px;
+  padding: 0 10px;
+}
+
+.navbar-brand {
+  font-size: 40px
+}
+
+.font-image {
+  font-size: 20px;
+}
+
+.contact, .twitter, .facebook {
+  color: #0779e4;
+}
+
+.mail {
+  color: red;
+}
+
+.instagram {
+  color: pink;
+}
+
+/* About Pinaki */
+.about-me {
+  margin: 3%
+}
+
+.name {
+  font-size: 20px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+/* Pinus's creations */
+/* Play the game */
+.play-the-game {
+  padding: 3%;
+}
+
+.game-cards {
+  text-align: center;
+  border: 1.5px solid black;
+  border-radius: 5px;
+  padding: 25px 0;
+  margin: 20px;
+}
