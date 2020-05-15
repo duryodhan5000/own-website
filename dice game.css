@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  background-color: #c3edea;
+}
+
+.dice-game {
+  text-align: center;
+  margin: 8%;
+}
+
+.heading {
+  font-size: 3rem;
+  text-shadow: 2px 2px 8px #FF0000;
+  margin-bottom: 5%;
+}
+
+.container {
+  margin: 5%;
+}
+
+label {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+input {
+  width: 70%;
+  height: 40px;
+  border: 1.5px solid black;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+button {
+  width: 20%;
+  height: 50px;
+  margin-bottom: 30px;
+}

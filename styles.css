@@ -1,6 +1,5 @@
 body {
   margin: 0;
-  background-color: #ffe8df;
 }
 
 /* Navigation Bar */
@@ -17,7 +16,7 @@ body {
   font-size: 40px
 }
 
-.font-image {
+/* .font-image {
   font-size: 20px;
 }
 
@@ -31,7 +30,7 @@ body {
 
 .instagram {
   color: pink;
-}
+} */
 
 /* About Pinaki */
 .about-me {
@@ -43,11 +42,21 @@ body {
   font-weight: bold;
   font-style: italic;
 }
+/* Resume */
+.flex-container {
+  display: flex;
+  justify-content: center;
+}
+.flex-container > div {
+  margin: 30px 10px;
+  text-align: left;
+}
 
 /* Pinus's creations */
 /* Play the game */
 .play-the-game {
   padding: 3%;
+  background-color: pink;
 }
 
 .game-cards {
